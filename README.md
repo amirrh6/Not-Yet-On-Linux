@@ -3,7 +3,7 @@ List of useful and popular softwares which are not yet available on Linux :(
 
 Note: Some of these softwares may work perfectly with [Wine](https://winehq.org) but native support is considered in this list.
 
-Pull requests are welcomed!
+Contributions (PRs / Issues) are welcomed!
 
 * [AIMP](https://www.aimp.ru/?do=lang&lng=en)
 * [Adobe Connect](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html)
@@ -14,3 +14,4 @@ Pull requests are welcomed!
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Psiphon](https://psiphon.ca/)
 * [Rufus](https://rufus.ie/en/)
+* [Samsung Smart Switch](https://www.samsung.com/us/apps/smart-switch/)
