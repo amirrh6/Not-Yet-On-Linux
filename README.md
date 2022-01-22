@@ -6,8 +6,10 @@ Contributions (PRs / Issues) are welcomed!
 
 * [AIMP](https://www.aimp.ru/?do=lang&lng=en)
 * [Adobe Connect](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html)
+* [Anyburn](https://anyburn.com/index.htm)
 * [BlueStacks](https://www.bluestacks.com/)
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+* [Eraser](https://eraser.heidi.ie/)
 * [Github Desktop](https://desktop.github.com/)
 * [Mp3tag](https://www.mp3tag.de/en/)
 * [Notepad++](https://notepad-plus-plus.org/)
