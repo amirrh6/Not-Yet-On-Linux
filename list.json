@@ -7,12 +7,33 @@
   {
     "name": "Adobe Connect",
     "website": "https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html",
-    "platforms": ["win", "mac", "android", "ios"]
+    "platforms": ["win", "mac", "android", "ios", "web (flash)"],
+    "note": "Web based version seems to require flash."
   },
   {
-    "name": "GitHub Desktop",
-    "website": "https://desktop.github.com/"
-    "platforms": ["win", "mac"]
-    "note": "A community maintained fork named ShiftKey is available and officially endorsed."
+    "name": "WhatsApp",
+    "website": "https://whatsapp.com",
+    "platforms": ["win", "mac", "android", "ios", "web"],
+    "note": "Linux users may use the web version but it lacks some features like Voice / Video calls."
   }
+  
+  
+  {
+    "name": "GitHub Desktop",
+    "website": "https://desktop.github.com"
+    "platforms": ["win", "mac", "linux"]
+    "note": "A community maintained fork named ShiftKey is available and officially endorsed."
+  },
+  {
+    "name": "Dropbox",
+    "website": "https://dropbox.com"
+    "platforms": ["win", "mac", "linux", "android", "ios", "web"]
+    "note": "The Linux version is not feature rich like its other clients. For example: It does not integrate with some popular File Managers like Nemo."
+  },
+  {
+    "name": "ProtonVPN",
+    "website": "https://protonvpn.com"
+    "platforms": ["win", "mac", "linux", "android", "ios", "chromebook", "android_tv"]
+    "note": "The Linux version is not feature rich like its other clients. For example: It does not support split-tunneling yet."
+  },
 ]
