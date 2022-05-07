@@ -20,6 +20,7 @@ Sample:
     "website": "https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html",
     "platforms": ["win", "mac", "android", "ios"]
   },
+  
   {
     "name": "GitHub Desktop",
     "website": "https://desktop.github.com/"
