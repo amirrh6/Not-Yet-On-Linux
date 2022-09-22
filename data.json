@@ -15,9 +15,7 @@
     "website": "https://whatsapp.com",
     "platforms": ["win", "mac", "android", "ios", "web"],
     "note": "Linux users may use the web version but it lacks some features like Voice / Video calls."
-  }
-  
-  
+  },
   {
     "name": "GitHub Desktop",
     "website": "https://desktop.github.com"
@@ -36,4 +34,10 @@
     "platforms": ["win", "mac", "linux", "android", "ios", "chromebook", "android_tv"]
     "note": "The Linux version is not feature rich like its other clients. For example: It does not support split-tunneling yet."
   },
+  {
+    "name": "Notepad++",
+    "website": "notepad-plus-plus.org/"
+    "platforms": ["win"]
+    "note": ""
+  }
 ]
