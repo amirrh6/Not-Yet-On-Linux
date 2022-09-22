@@ -36,8 +36,32 @@
   },
   {
     "name": "Notepad++",
-    "website": "notepad-plus-plus.org/"
+    "website": "https://notepad-plus-plus.org/"
     "platforms": ["win"]
+    "note": ""
+  },
+  {
+    "name": "Mp3tag",
+    "website": ""
+    "platforms": ["win", "mac"]
+    "note": ""
+  },
+  {
+    "name": "Rufus",
+    "website": ""
+    "platforms": ["win"]
+    "note": ""
+  },
+  {
+    "name": "Psiphon",
+    "website": ""
+    "platforms": ["win", "mac", "android", "ios"]
+    "note": ""
+  },
+  {
+    "name": "Samsung Smart Switch",
+    "website": ""
+    "platforms": ["win", "mac"]
     "note": ""
   }
 ]
