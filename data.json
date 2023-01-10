@@ -36,32 +36,38 @@
   },
   {
     "name": "Notepad++",
-    "website": "https://notepad-plus-plus.org/"
+    "website": "https://notepad-plus-plus.org"
     "platforms": ["win"]
     "note": ""
   },
   {
     "name": "Mp3tag",
-    "website": ""
+    "website": "https://www.mp3tag.de/en/index.html"
     "platforms": ["win", "mac"]
     "note": ""
   },
   {
     "name": "Rufus",
-    "website": ""
+    "website": "https://rufus.ie/en"
     "platforms": ["win"]
     "note": ""
   },
   {
     "name": "Psiphon",
-    "website": ""
+    "website": "https://psiphon.ca"
     "platforms": ["win", "mac", "android", "ios"]
     "note": ""
   },
   {
     "name": "Samsung Smart Switch",
-    "website": ""
+    "website": "https://www.samsung.com/us/apps/smart-switch/"
     "platforms": ["win", "mac"]
+    "note": ""
+  },
+  {
+    "name": "Guitar Pro",
+    "website": "https://www.guitar-pro.com",
+    "platforms": ["win", "mac", "android", "ios"],
     "note": ""
   }
 ]
