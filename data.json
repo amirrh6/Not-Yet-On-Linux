@@ -55,7 +55,7 @@
   },
   {
     "name": "GitHub Desktop",
-    "website": "https://desktop.github.com"
+    "website": "https://github.com/desktop/desktop"
     "platforms": ["win", "mac", "linux"]
     "note": "A community maintained fork named ShiftKey is available and officially endorsed."
   },
